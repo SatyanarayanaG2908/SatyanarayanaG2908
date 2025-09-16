@@ -2,8 +2,7 @@
 
 <div align="center">
 
-<!-- Add your profile image here -->
-<img src="me.jpg" alt="Sri Venkata Satyanarayana Gattu" width="200" height="200" style="border-radius: 50%; border: 4px solid #6c63ff; box-shadow: 0 10px 30px rgba(108, 99, 255, 0.3);" />
+
 
 ### 🎯 Data Science Student | 🤖 ML Enthusiast | 💻 Web Developer
 
